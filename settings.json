@@ -1,16 +1,23 @@
 {
-    "editor.fontSize": 15,
-    "liveServer.settings.donotVerifyTags": true,
-    "liveServer.settings.donotShowInfoMsg": true,
-    "files.autoSave": "afterDelay",
-    "editor.formatOnSave": true,
-    "editor.wordWrap": "on",
-    "workbench.tree.indent": 12,
-    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
-    "editor.language.colorizedBracketPairs": [],
-    "editor.guides.bracketPairs": true,
-    "emmet.variables": {
-        "lang": "pt-br"
-    },
-    "workbench.iconTheme": "material-icon-theme"
+  "editor.fontSize": 20,
+  "window.zoomLevel": 1,
+  "editor.lineHeight": 1.6,
+  "files.autoSave": "afterDelay",
+  "editor.wordWrap": "on",
+  "workbench.tree.indent": 12,
+  "emmet.variables": {
+    "lang": "pt-br"
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.guides.bracketPairs": "active",
+
+  "editor.tabSize": 2,
+  "editor.minimap.enabled": false,
+
+  "zenMode.fullScreen": false,
+  "zenMode.centerLayout": false,
+  "zenMode.showTabs": "single",
+
+  
 }
