@@ -3,20 +3,27 @@
 
 User Settings / settings.json
 
+<h2>💻 VS Code Settings — Personal Preferences</h2>
+This repository contains my custom settings.json file with personal preferences for web development using Visual Studio Code.
 
-{
-    "editor.fontSize": 15,
-    "liveServer.settings.donotVerifyTags": true,
-    "liveServer.settings.donotShowInfoMsg": true,
-    "files.autoSave": "afterDelay",
-    "editor.formatOnSave": true,
-    "editor.wordWrap": "on",
-    "workbench.tree.indent": 12,
-    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
-    "editor.language.colorizedBracketPairs": [],
-    "editor.guides.bracketPairs": true,
-    "emmet.variables": {
-        "lang": "pt-br"
-    },
-    "workbench.iconTheme": "material-icon-theme"
-}
+The configurations are focused on productivity and organization, especially for working with HTML, CSS, and JavaScript. Key features include:
+
+<ul>
+    <li>Auto-save after inactivity</li>
+
+<li>Format on save</li>
+
+<li>Word wrapping enabled</li>
+
+<li>Adjusted font size</li>
+
+<li>Colored bracket pair guides</li>
+
+<li>Live Server warnings disabled</li>
+
+<li>Material Icon Theme for file icons</li>
+
+<li>Emmet configured for pt-br (Brazilian Portuguese) </li>
+</ul>
+
+Feel free to use or modify these settings to improve your own development environment.
